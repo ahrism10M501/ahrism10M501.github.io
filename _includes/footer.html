@@ -13,11 +13,8 @@
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {% if site.author.github -%}
-            <li><a href="https://github.com/{{ site.autho.github }}" target="_blank" rel="noopener" aria-label="GitHub">
-                <i class="fab fa=github"></i> GitHUb
-              </a>
+            <li>
+              <a class="u-email" href="mailto:{{ site.author.email }}"> {{ site.author.email }} </a>
             </li>
           {%- endif %}
         </ul>

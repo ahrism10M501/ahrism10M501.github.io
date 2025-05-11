@@ -27,7 +27,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: "Ahrism"
   email: "l.all.means@gmail.com"
-  github: ahrism10M501
+
+minima:
+  social_links:
+    - title: GitHub
+      url: https://github.com/ahrism10M501
+      icon: github
 
 # Build settings
 # theme: minima
