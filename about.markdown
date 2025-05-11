@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+이 블로그는 Ahrism의 학습 블로그입니다!   
+개인 공부와 프로젝트 정리, 독후감 작성 등 학습한 내용을 정리하여 업로드합니다!   
+블로그 UI와 디자인 등은 배우는대로 업데이트 중 입니다. 자세한 내역은 github의 커밋을 참고해주세요.   
