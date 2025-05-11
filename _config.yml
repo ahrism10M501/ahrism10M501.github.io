@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   취미로 코딩합니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# footer properties
 author:
   name: "Ahrism"
   email: "l.all.means@gmail.com"
