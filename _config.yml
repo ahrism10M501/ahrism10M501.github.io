@@ -35,6 +35,10 @@ minima:
     - title: GitHub
       url: https://github.com/ahrism10M501
       icon: github
+  nav_pages:
+    - categories/index.md
+    - about.md
+
 
 # Build settings
 # theme: minima
